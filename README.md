@@ -1,9 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/Akmalalfareza130305/Akmalalfareza130305/blob/main/demon-slayer-corps.3840x2160.mp4">
-    <img src="https://github.com/Akmalalfareza130305/Akmalalfareza130305/blob/main/kushibo.jpg" alt="Demon Slayer Video" width="600" />
+    <img src="https://github.com/Akmalalfareza130305/Akmalalfareza130305/blob/main/kushibo.jpg" alt="Demon Slayer Video" style="width:100%;height:auto;" />
   </a>
 </p>
+
 
 <h1 align="center">🔥 Muhammad Akmal Naufal Al Fareza 🔥</h1>
 <h3 align="center">⚔️ Bug Slayer | React + Vite Developer | Anime Enthusiast ⚔️</h3>
