@@ -14,7 +14,7 @@
 ### 🌀 About Me
 - 💻 Frontend developer fokus ke **React + Vite + Tailwind**
 - 🎨 Suka bikin UI smooth dan interaktif
-- ⚔️ Pecinta *Demon Slayer*, skill: **Sun Breathing**
+- ⚔️ Pecinta *Demon Slayer*
 - 📫 Email: **akmalalfareza20@gmail.com**
 
 ---
