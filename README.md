@@ -1,5 +1,5 @@
 <!-- Banner Demon Slayer -->
-<img src="https://media.giphy.com/media/jnM5iE4J0lKqE/giphy.gif" width="100%" alt="Demon Slayer Banner">
+<img src="[https://media.giphy.com/media/jnM5iE4J0lKqE/giphy.gif](https://motionbgs.com/media/4428/demon-slayer-corps.960x540.mp4)" width="100%" alt="Demon Slayer Banner">
 
 <h1 align="center">🔥 Muhammad Akmal Naufal Al Fareza 🔥</h1>
 <h3 align="center">⚔️ Bug Slayer | React + Vite Developer | Anime Enthusiast ⚔️</h3>
