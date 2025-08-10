@@ -48,11 +48,4 @@
 
 ---
 
-### 🔥 Demon Slayer GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk3eDR1ZXVvdnA3ejh1ZzBhYnp4ZDBpMG5seTVjZWtucnBhd3A3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SuUJ6WpnP4Qsg/giphy.gif" width="250" />
-</p>
-
----
-
 ⚡ *"Keep your heart burning, keep slaying the bugs"* ⚡
