@@ -11,7 +11,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Breathing+Code+like+Flame;Slaying+Bugs+like+Demons;Frontend+Developer+React+Vite;Anime+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&lines=UI+UX+DESIGNER;FRONTEND+DEVELOPMENT;BACKEND+DEVELOPMENT" />
 </p>
 
 ---
@@ -40,6 +40,10 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
 </p>
 
 ---
